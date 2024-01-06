@@ -31,4 +31,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: FanzNaf/coba-action:latest
+          tags: fanznaf/coba-action:latest
